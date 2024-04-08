@@ -60,19 +60,19 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/ntddatj03" target="blank">
+  <a href="https://facebook.com/ntddatj03" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NhocTapDev-Facebook" />
   </a>
-  <a href="" target="blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="NhocTapDev-youtube" />
   </a>
-  <a href="" target="blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="NhocTapDev-linkedin" />
   </a>
-  <a href="" target="blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="NhocTapDev-instagram" />
   </a>
-  <a href="" target="top">
+  <a href="" target="_top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="NhocTapDev-email" />
   </a>
 </div>
