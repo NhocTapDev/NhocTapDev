@@ -47,7 +47,8 @@
       </td>
       <td>
         <p align="center"> 
-          <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+          <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611sv3lw2rx1rnfqwg1soaxkljp91op0jg6beo20kch&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="dev" width="100%"/>
+              <!--- https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif --->
         </p>
       </td>
     </tr>
@@ -76,7 +77,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="NhocTapDev-email" />
   </a>
 </div>
-
 
 <!---
 NhocTapDev/NhocTapDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
