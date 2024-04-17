@@ -5,6 +5,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Frontend+Developer!;+I'm+Freelancer!;" />
+</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -88,6 +94,12 @@
 ![snake gif](https://github.com/NhocTapDev/NhocTapDev/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visited!+👋;+...+...+...;" />
+</h1>
 
 <!---
 NhocTapDev/NhocTapDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
